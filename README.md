@@ -20,3 +20,10 @@ ng new demoapp1
 cd demoapp1
 ng serve -o
 ```
+## Editing the app
+
+The Path of running an angular app is: 
+
+index.html --> app.component.ts --> app.component.html
+
+half
