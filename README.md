@@ -16,6 +16,13 @@ ng version
 ```
 
 ## Create and run first Angular app
+
+1. Make a folder named AngularApp and change directory to it using:
+```
+mkdir AngularApp
+cd AngularApp
+```
+2. Create and run first app 
 ```
 ng new demoapp1
 cd demoapp1
