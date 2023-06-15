@@ -15,8 +15,6 @@ ng version
 ```
 
 ## Create and run first Angular app
-
-1. Create and run first app 
 ```
 ng new demoapp1
 cd demoapp1
