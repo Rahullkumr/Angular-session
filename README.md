@@ -2,11 +2,10 @@
 
 ## Installation
 
-1. Install node lts version(if not installed):
+1. Install node:
 ```
-nvm install --lts
+nvm install 16.10    (only 16.1 is working in codespace)
 node --version
-nvm use --lts
 ```
 
 2. Install Angular: 
@@ -17,12 +16,7 @@ ng version
 
 ## Create and run first Angular app
 
-1. Make a folder named AngularApp and change directory to it using:
-```
-mkdir AngularApp
-cd AngularApp
-```
-2. Create and run first app 
+1. Create and run first app 
 ```
 ng new demoapp1
 cd demoapp1
