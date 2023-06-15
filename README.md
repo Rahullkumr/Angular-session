@@ -11,6 +11,13 @@ nvm use --lts
 
 2. Install Angular: 
 ```
-npm install -g @angular/cli
+npm install -g @angular/cli     (-g is for global access)
 ng version
+```
+----
+## Create and run first Angular app
+```
+ng new demoapp1
+cd demoapp1
+ng serve -o
 ```
