@@ -2,11 +2,7 @@
 
 ## Installation
 
-1. Install node lts version(if not installed) using:
-        ```nvm install --lts```.
-
-    check version using:
-        ```node --version```
+1. Install node lts version(if not installed) using: ```nvm install --lts``` ```node --version```
 
     if it's already installed then start using:
         ```nvm use --lts```
