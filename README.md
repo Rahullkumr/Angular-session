@@ -14,7 +14,7 @@ nvm use --lts
 npm install -g @angular/cli     (-g is for global access)
 ng version
 ```
-----
+
 ## Create and run first Angular app
 ```
 ng new demoapp1
