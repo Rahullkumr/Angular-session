@@ -66,7 +66,12 @@ node is needed for development of angular apps.
 
 ## Installation
 1. Install node:
-```
+```diff
++ new way
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+- old way
 nvm install 16.10    (only 16.1 is working in codespace)
 node --version
 ```
